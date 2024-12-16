@@ -1,0 +1,9 @@
+{
+  "appId": "app.vercel.byy8ydpvikluid98",
+  "appName": "TekTon",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
